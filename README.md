@@ -5,4 +5,3 @@ Mapeamento sistemático, do site [Theend](https://easii.ufpi.br/theend/home/) bu
 Motivação
 --------
 esse Web Scraping surgiu devido a uma atividade do Relatório do Estágio em Pesquisa na UESPI/phb e o desejo de aplicar meus estudos, iniciais, de Web Scraping. A ativade consistia em filtrar os 15 artigos mais referenciados dos 154 que tinha sido utilizadaos para execução do Mapeamento sistemático. esse Web Scraping só se tornou possivel graças aos videos do Canal no Youtube do [Eduardo Mendes](https://github.com/dunossauro) que se chama [Live de Python](https://www.youtube.com/user/mendesesduardo/videos).
-
