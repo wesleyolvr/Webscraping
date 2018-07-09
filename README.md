@@ -1,9 +1,8 @@
 # Webscraping
-Webscraping feito em Python e Selenium, pra acessar todos titulos de artigos que foram utilizados em um 
-Mapeamento sistemático do site [Theend](https://easii.ufpi.br/theend/home/login) e procurar no site [Scopus](https://www-scopus.ez17.periodicos.capes.gov.br/search/form.uri?display=basic) a quantidade de citações de cada um dos artigos.
+Esse Web Scraping foi feito em Python usando Selenium, com a finalidade de acessar todos titulos de artigos, que foram utilizados em um 
+Mapeamento sistemático, do site [Theend](https://easii.ufpi.br/theend/home/) buscando e identificando, na base de artigos, [Scopus](https://www-scopus.ez17.periodicos.capes.gov.br/search/form.uri?display=basic) quais eram a quantidade de citações de cada artigo, utilizados no Mapeamento Sistemático.
 
 Motivação
 --------
-esse Webscraping surgiu devido a uma demanda do Relatório Estágio obrigatório da UESPI e só se tornou possivel graças aos videos de
-Canal no Youtube do [Eduardo Mendes](https://github.com/dunossauro) que se chama [Live de Python](https://www.youtube.com/user/mendesesduardo/videos).
+esse Web Scraping surgiu devido a uma atividade do Relatório do Estágio em Pesquisa na UESPI/phb e o desejo de aplicar meus estudos, iniciais, de Web Scraping. A ativade consistia em filtrar os 15 artigos mais referenciados dos 154 que tinha sido utilizadaos para execução do Mapeamento sistemático. esse Web Scraping só se tornou possivel graças aos videos do Canal no Youtube do [Eduardo Mendes](https://github.com/dunossauro) que se chama [Live de Python](https://www.youtube.com/user/mendesesduardo/videos).
 
